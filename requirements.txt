@@ -8,3 +8,4 @@ openpyxl==3.0.10
 pandas==1.4.3
 scikit_learn==1.1.1
 utils==1.0.1
+flasgger==0.9.4
