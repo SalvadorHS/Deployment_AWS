@@ -1,0 +1,8 @@
+flasgger
+Flask
+numpy
+pandas
+scikit_learn
+openpyxl
+gunicorn
+Jinja2
