@@ -13,7 +13,6 @@
 </code>
 
 ## Deployment 🚀
-- ML Deploy using StreamLit: https://mlmodeltest.herokuapp.com/
-- ML Deploy using Flask: https://mlmodeltest2.herokuapp.com/apidocs
+- ML Deploy using Flask: http://ec2-54-183-113-138.us-west-1.compute.amazonaws.com:8000/apidocs/
 
 - docker run -dp 8000:8000 salvadorhs/deployment_aws:final
