@@ -13,5 +13,5 @@
 </code>
 
 ## Deployment 🚀
-- ML Deploy using StreamLit: https://mlmodeltest.herokuapp.com/
-- ML Deploy using Flask: https://mlmodeltest2.herokuapp.com/apidocs
+- ML Deploy in AWS: https://mlmodeltest.herokuapp.com/
+- ML Deploy in Heroku: https://schrimp-virus-detector.herokuapp.com/apidocs
