@@ -15,3 +15,5 @@
 ## Deployment 🚀
 - ML Deploy using StreamLit: https://mlmodeltest.herokuapp.com/
 - ML Deploy using Flask: https://mlmodeltest2.herokuapp.com/apidocs
+
+- docker run -dp 8000:8000 salvadorhs/deployment_aws:final
