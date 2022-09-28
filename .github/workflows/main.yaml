@@ -3,7 +3,7 @@ on:
   push:
     branches: [Schrimp_Heroku]
 
-# Workflows jobs.
+# Workflows jobs
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
 
           # Dockerfile in the root folder
           dockerfile_directory: ./
-
+          
           # Dockerfile name.
           dockerfile_name: Dockerfile
 
