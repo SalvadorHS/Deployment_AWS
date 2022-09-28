@@ -13,6 +13,7 @@
 </code>
 
 ## Deployment 🚀
-- ML Deploy using Flask: http://ec2-54-183-113-138.us-west-1.compute.amazonaws.com:8000/apidocs/
+- ML Deploy in AWS   : http://ec2-54-183-113-138.us-west-1.compute.amazonaws.com:8000/apidocs/
+- ML Deploy in Heroku: https://schrimp-virus-detector.herokuapp.com/apidocs
 
 - docker run -dp 8000:8000 salvadorhs/deployment_aws:final
