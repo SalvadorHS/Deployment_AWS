@@ -4,14 +4,14 @@
 The main goal is to deploy the optimal ML Model from Schrimp Virus Detection Project in simple ML based websites with StreamLite in Docker Containers using the AWS platform. 
   - A second goal is to configure an automatic deployment with Docker Containers in Heroku platform using GitHub Secret Actions. 
 
-## Main Branch (AWS)
+## Main Branch (AWS) ⚙️
 - Authentication Keys
   - PEM file
   - ppk file
 - Configuration Files
   - Dockerfile
   
-## Heroku Branch 
+## Schrimp_Heroku Branch ⚙️
 - Configuration Files
   - .github/workflows/main.yaml
   - Dockerfile
