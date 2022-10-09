@@ -11,7 +11,7 @@ The main goal is to deploy the optimal ML Model from Schrimp Virus Detection Pro
 - Configuration Files
   - Dockerfile
   
-## Heroku Branch ⚙️
+## Schrimp_Heroku Branch ⚙️
 - Configuration Files
   - .github/workflows/main.yaml
   - Dockerfile
