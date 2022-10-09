@@ -26,7 +26,7 @@ The main goal is to deploy the optimal ML Model from Schrimp Virus Detection Pro
 <code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg"></code>
 <code><img height="30" src="https://matplotlib.org/_static/logo2.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://pngimage.net/aws-logo-png-4-2/"></code>
+<code><img height="30" src="https://gisuser.com/wp-content/uploads/2018/08/2000px-Amazon_Web_Services_Logo.svg_.png"></code>
 </code>
 
 ## Deployments 🚀
